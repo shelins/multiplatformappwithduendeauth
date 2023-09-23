@@ -1,0 +1,27 @@
+export default {
+    LOGIN_REFRESH_TOKEN: 'appRT',
+    AUTH_BASE_URL: 'https://demo.duendesoftware.com',
+    AUTH_CLIENT_ID: 'interactive.public',
+    APP_REDIRECT_WEB_URI: 'http://localhost:8081',
+    APP_REDIRECT_NATIVE_URI: 'feapp://localhost:3000',
+    APP_NAME: 'Multiplatform App',
+    APP_Key: 'stlduphuSwowlwri6u1r',
+    SESSION_KEY:'BLkuzetaf4',
+    WIDTH: {
+      navigationIcon: 24,
+      navigationIconSmall: 12,
+    },
+    COLOR: {
+      ORANGE: '#C50',
+      DARKBLUE: '#0F3274',
+      LIGHTBLUE: '#6EA8DA',
+      DARKGRAY: '#999',
+      WHITE: '#FFF',
+      BLACK: '#000',
+      tintPrimaryColorLight: '#FFF',
+      tintPrimaryColorDark: '#000',
+      tintSecondaryColorLight: '#000',
+      tintSecondaryColorDark: '#fff',
+      headerTitleColor: '#0F3274',
+    },
+  };
